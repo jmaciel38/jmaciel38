@@ -3,8 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jmaciel38/jmaciel38)](https://github.com/jmaciel38/jmaciel38)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-maciel-91b0bb17b/)](https://www.linkedin.com/in/jose-maciel-91b0bb17b/)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jmaciel38" alt="jmaciel38" /></p>
-
 ### About me
 I'm a Fullstack {Backend Laravel & Nodejs, Frontend React.js} developer. 
 
@@ -34,8 +32,10 @@ I'm a Fullstack {Backend Laravel & Nodejs, Frontend React.js} developer.
 ## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jmaciel38&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmaciel38&hide=TeX&layout=compact&theme=dark)
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jmaciel38" alt="jmaciel38" /></p>
 <!--
 **jmaciel38/jmaciel38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
