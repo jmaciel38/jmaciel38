@@ -1,4 +1,10 @@
-### Hi there 👋
+### # Hi, I'm Jose Maciel! :D 👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jmaciel38/jmaciel38)](https://github.com/jmaciel38/jmaciel38)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-maciel-91b0bb17b/)](https://www.linkedin.com/in/jose-maciel-91b0bb17b/)
+
+### About me
+I'm a Fullstack {Backend Laravel & Nodejs, Frontend React.js} developer. 
 
 <!--
 **jmaciel38/jmaciel38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
