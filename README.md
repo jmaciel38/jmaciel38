@@ -1,12 +1,12 @@
-### Hi, I'm Jose Maciel!
+## Hi, I'm Jose Maciel!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jmaciel38/jmaciel38)](https://github.com/jmaciel38/jmaciel38)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-maciel-91b0bb17b/)](https://www.linkedin.com/in/jose-maciel-91b0bb17b/)
 
-### About me
+## About me
 I'm a Fullstack {Backend Laravel & Nodejs, Frontend React.js} developer. 
 
-🚀💻 Technologies & Tools
+### 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -29,7 +29,7 @@ I'm a Fullstack {Backend Laravel & Nodejs, Frontend React.js} developer.
 ![Linux](https://img.shields.io/badge/Linux-363699?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=informational)
 
-## ⚡ GitHub Stats
+### ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jmaciel38&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
